@@ -1,0 +1,35 @@
+"C:\Program Files\JetBrains\CLion 2024.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.3.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\chaze\CSE 335\Project-2-main\MachineDemo" -B "C:\Users\chaze\CSE 335\Project-2-main\MachineDemo\cmake-build-debug"
+CMake Warning (dev) at CMakeLists.txt:5 (project):
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is MSVC 19.43.34808.0
+-- The CXX compiler identification is MSVC 19.43.34808.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.43.34808/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.43.34808/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found wxWidgets: debug;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxmsw32ud_core.lib;optimized;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxmsw32u_core.lib;debug;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxbase32ud.lib;optimized;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxbase32u.lib;debug;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxmsw32ud_xrc.lib;optimized;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxmsw32u_xrc.lib;debug;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxmsw32ud_html.lib;optimized;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxmsw32u_html.lib;debug;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxbase32ud_xml.lib;optimized;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxbase32u_xml.lib;debug;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxpngd.lib;optimized;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxpng.lib;debug;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxtiffd.lib;optimized;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxtiff.lib;debug;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxjpegd.lib;optimized;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxjpeg.lib;debug;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxzlibd.lib;optimized;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxzlib.lib;debug;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxregexud.lib;optimized;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxregexu.lib;debug;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxexpatd.lib;optimized;C:/wxWidgets-3.2.6/lib/vc_x64_lib/wxexpat.lib;winmm;comctl32;uuid;oleacc;uxtheme;rpcrt4;shlwapi;version;wsock32 (found version "3.2.6") found components: core base xrc html xml png tiff jpeg zlib regex expat
+CMake Error at cmake-build-debug/_deps/machinedemolib-src/CMakeLists.txt:1 (project):
+  VERSION not allowed unless CMP0048 is set to NEW
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.30)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!

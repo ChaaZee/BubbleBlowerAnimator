@@ -1,0 +1,21 @@
+# ninja log v6
+2	38	7665350715869292	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-mkdir	35d7690db57154fc
+2	38	7665350715869292	C:/Users/chaze/CSE 335/Project-2/MachineTests/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-mkdir	35d7690db57154fc
+39	1831	7665350733793661	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-download	a83ef020ed715e2f
+39	1831	7665350733793661	C:/Users/chaze/CSE 335/Project-2/MachineTests/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-download	a83ef020ed715e2f
+1831	1916	7665350733823667	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-update	f928a77794491444
+1831	1916	7665350733823667	C:/Users/chaze/CSE 335/Project-2/MachineTests/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-update	f928a77794491444
+1916	1948	7665350734963674	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-patch	5c593814578a9cb5
+1916	1948	7665350734963674	C:/Users/chaze/CSE 335/Project-2/MachineTests/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-patch	5c593814578a9cb5
+1948	1980	7665350735283674	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-configure	3e88df55b56c9f8f
+1948	1980	7665350735283674	C:/Users/chaze/CSE 335/Project-2/MachineTests/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-configure	3e88df55b56c9f8f
+1980	2013	7665350735613683	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-build	93449e6c40c21015
+1980	2013	7665350735613683	C:/Users/chaze/CSE 335/Project-2/MachineTests/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-build	93449e6c40c21015
+2013	2046	7665350735943675	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-install	8519af591a0245e7
+2013	2046	7665350735943675	C:/Users/chaze/CSE 335/Project-2/MachineTests/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-install	8519af591a0245e7
+2046	2078	7665350736263673	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-test	dbb3ff37a36ea3ab
+2046	2078	7665350736263673	C:/Users/chaze/CSE 335/Project-2/MachineTests/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-test	dbb3ff37a36ea3ab
+2078	2123	7665350736713675	CMakeFiles/box2d-populate-complete	fc460f886677492f
+2078	2123	7665350736713675	box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-done	fc460f886677492f
+2078	2123	7665350736713675	C:/Users/chaze/CSE 335/Project-2/MachineTests/cmake-build-debug/_deps/box2d-subbuild/CMakeFiles/box2d-populate-complete	fc460f886677492f
+2078	2123	7665350736713675	C:/Users/chaze/CSE 335/Project-2/MachineTests/cmake-build-debug/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-done	fc460f886677492f
